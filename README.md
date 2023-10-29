@@ -6,9 +6,9 @@ This repository contains a portfolio project that I created to experiment with d
 
 I'm exploring three different technologies for this project:
 
-1. **.NET (C# with Windows Forms & WPF)
-2. **Tkinter (Python)
-3. **Electron (JavaScript/HTML/CSS)
+1. .NET (C# with Windows Forms & WPF)
+2. Tkinter (Python)
+3. Electron (JavaScript/HTML/CSS)
 
 ## Project Overview
 
